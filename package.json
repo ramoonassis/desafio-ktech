@@ -1,0 +1,16 @@
+{
+  "name": "cypress-automation-framework",
+  "version": "1.0.0",
+  "description": "Cypress Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramon Assis",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0",
+    "cypress-if": "^1.10.3",
+    "cypress-xpath": "^2.0.1"
+  }
+}
